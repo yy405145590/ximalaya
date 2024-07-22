@@ -1,4 +1,5 @@
 # ximalaya
+一个批量下载指定专辑下的所有音频文件的工具
 ## 使用方法
 - 专辑ID -> 图片中的26343345
   ![图片](https://github.com/user-attachments/assets/23b0a9a3-5c38-4da3-90ea-3a8df3ffa915)
